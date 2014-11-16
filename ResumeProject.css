@@ -5,3 +5,12 @@ body {
 	text-align: center;
 	margin: 0 auto;
 }
+p {
+	font-family: Arial;
+	letter-spacing: 0.2em;
+	font-size: 200%;
+}
+li {
+	font-family: Arial;
+	display: inline;
+}
