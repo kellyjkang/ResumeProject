@@ -1,3 +1,7 @@
 body {
 	background: #C4DAD5;
 }
+.center {
+	text-align: center;
+	margin: 0 auto;
+}
